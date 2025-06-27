@@ -1,5 +1,6 @@
 # Prediction_Cancer_Du_Sein
 
+
 ## Description du projet
 
 Ce projet de machine learning a pour objectif de prédire si une tumeur mammaire est bénigne ou maligne, à partir de caractéristiques mesurées lors d’examens médicaux.
@@ -11,8 +12,6 @@ J’ai utilisé un dataset de cancer du sein pour entraîner et comparer plusieu
 	•	Appliquer plusieurs algorithmes de classification.
 	•	Comparer leurs performances à l’aide de métriques (accuracy, f1-score, etc.).
 	•	Identifier le modèle le plus performant pour la prédiction.
-
-   - Visualisation les données
 
 ## Modèles utilisés
 
