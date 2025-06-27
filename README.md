@@ -7,12 +7,14 @@ J’ai utilisé un dataset de cancer du sein pour entraîner et comparer plusieu
 
 ## Objectifs
 
-	•	Nettoyer et préparer les données (traitement des valeurs aberrantes, normalisation).
+	•	Nettoyer et préparer les données (traitement des valeurs aberrantes, encodage, normalisation).
+ - Visualisation les données
 	•	Appliquer plusieurs algorithmes de classification.
 	•	Comparer leurs performances à l’aide de métriques (accuracy, f1-score, etc.).
 	•	Identifier le modèle le plus performant pour la prédiction.
 
 ## Modèles utilisés
+
 	•	Régression logistique
 	•	K-Nearest Neighbors (KNN)
 	•	Support Vector Machine (SVM)
