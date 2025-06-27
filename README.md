@@ -34,3 +34,7 @@ Chaque modèle a été évalué sur la base des performances de classification. 
 	•	pandas, numpy pour la manipulation des données
 	•	matplotlib, seaborn pour la visualisation
 	•	scikit-learn pour l’entraînement des modèles de ML
+
+## Auteur
+
+ALY COTO NDOUR
